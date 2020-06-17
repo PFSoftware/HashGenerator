@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PFSoftware.HashGenerator", "PFSoftware.HashGenerator.csproj", "{F3B0E1DF-86C7-432A-82F8-9B9D07FB61E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PFSoftware.Extensions", "..\Extensions\PFSoftware.Extensions.csproj", "{6310E413-466F-4F15-8553-7BBE6A0CF09E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3B0E1DF-86C7-432A-82F8-9B9D07FB61E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B0E1DF-86C7-432A-82F8-9B9D07FB61E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B0E1DF-86C7-432A-82F8-9B9D07FB61E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B0E1DF-86C7-432A-82F8-9B9D07FB61E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6310E413-466F-4F15-8553-7BBE6A0CF09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6310E413-466F-4F15-8553-7BBE6A0CF09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6310E413-466F-4F15-8553-7BBE6A0CF09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6310E413-466F-4F15-8553-7BBE6A0CF09E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E769FAA-F426-4AF7-AF57-A0735409888A}
+	EndGlobalSection
+EndGlobal
